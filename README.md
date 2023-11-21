@@ -43,5 +43,5 @@
 ---
 
 #### 开发中的项目（仅展示还在维护）
-[![EasyLAN](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxianhw&repo=easylan)](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxianhw&repo=easylan)
-[![ATBot](https://github-readme-stats.vercel.app/api/pin/?username=axt-team&repo=atbot)](https://github-readme-stats.vercel.app/api/pin/?username=axt-team&repo=atbot)
+[![EasyLAN](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxianhw&repo=easylan)](https://github.com/XiaoXianHW/EasyLAN)
+[![ATBot](https://github-readme-stats.vercel.app/api/pin/?username=axt-team&repo=atbot)](https://github.com/AxT-Team/ATBot)
