@@ -3,7 +3,7 @@
 ---
 
 #### 原名XiaoXian，也可以叫Darf
-- **16岁，学生一位，废柴一个(～﹃～)~zZ**
+- **17岁，学生一位，废柴一个(～﹃～)~zZ**
 - 🍕 接触过的喜好: **Furry/Minecraft/音游/IT/运维**
 - 💻 日常使用语言: **Java/PHP/HTML/Vue/MySQL/JavaScript/易语言**
 - ✍️ 日常使用编辑器: **IntelliJ IDEA/WebStorm/Visual Studio**
