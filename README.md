@@ -2,12 +2,11 @@
 
 ---
 
-#### 原名XiaoXian，也可叫Darf/弧渊
+#### 曾用名*XiaoXian*，现为**Darf**/**弧渊** | **INFJ**
 - 🍕 接触过的: **Furry/IT/MBTI**
-- 🎮 游戏领域: **Minecraft/osu/Phigros/[其他一些主机游戏]**
+- 🎮 游戏领域: **Minecraft/[音游]osu&Phigros/[主机游戏]🤔**
 - 💻 常用语言: **Java/Vue/PHP/JavaScript/Python | H5/MySQL**
-- ✍️ IDE编辑器: **IntelliJ IDEA/WebStorm/Visual Studio/Code**
-- ⛅ MBTI: **INFJ**
+- ✍️ 常用IDE: **IntelliJ IDEA/WebStorm | Visual Studio/Code**
 
 ---
 
